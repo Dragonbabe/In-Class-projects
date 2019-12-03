@@ -16,6 +16,19 @@
     background-color: #4aaaa5;
     margin: 0px;
 }
+.container {
+    position: relative;
+  }
+  
+  .text-block {
+    position: sticky;
+    bottom: 5px;
+    right: 5px;
+    background-color: #4aaaa5;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
 .about {
     margin-left:24px;
     padding-bottom: 26px;
@@ -100,6 +113,8 @@ footer {
     padding-bottom: 27px;
     background-color: #666666;
 }
+
+
 
 
 
