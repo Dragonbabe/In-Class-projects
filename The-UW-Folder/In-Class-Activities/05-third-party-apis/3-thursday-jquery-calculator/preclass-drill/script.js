@@ -1,0 +1,1 @@
+var string = ('puppies', 'kittens', 'bunnies');
